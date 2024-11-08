@@ -7,5 +7,5 @@ import(
 
 func main() {
   fmt.Println("Hello World")
-  set1.XOR()
+  set1.SingleByteCipher()
 }
